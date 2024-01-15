@@ -1,3 +1,7 @@
+## 1.2.0
+
+- change min length to 0 for public wifi
+
 ## 1.1.11
 
 - Checking if isolate stream is open before sinking event data
