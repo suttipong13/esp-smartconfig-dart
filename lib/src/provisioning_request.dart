@@ -4,7 +4,7 @@ import 'dart:typed_data';
 /// Provisioning request
 class ProvisioningRequest {
   static final ssidLengthMax = 32;
-  static final passwordLengthMin = 8;
+  static final passwordLengthMin = 0;
   static final passwordLengthMax = 64;
   static final reservedDataLengthMax = 127;
   static final bssidLength = 6;
